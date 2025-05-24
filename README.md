@@ -1,5 +1,3 @@
-# rare_cell_diffusion
-
 # Rare Cell Synthesis with Diffusion Models
 
 This project uses a denoising diffusion probabilistic model (DDPM) to generate synthetic single-cell gene expression data, focusing on rare cell types such as hepatocytes. The model is trained on a subset of the Tabula Sapiens v2 dataset and compared with a simple Gaussian generator baseline.
